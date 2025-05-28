@@ -1,12 +1,12 @@
-# 🧠 Sales Dashboard - Power BI Project
+# Sales Dashboard - Power BI Project
 
-## 📌 Overview
+## Overview
 
 This project is a **Sales Dashboard** built using **Power BI** to visualize and analyze key sales data for better business decision-making. It demonstrates my ability to clean data, create relationships, and build interactive visuals for actionable insights.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Track sales performance across different regions and product categories
 - Identify top-performing and underperforming segments
@@ -15,7 +15,7 @@ This project is a **Sales Dashboard** built using **Power BI** to visualize and 
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **Interactive filters** for year, region, category, and product
 - **KPIs**: Total Sales, Total Profit, Average Profit Margin, Total Orders
@@ -28,7 +28,7 @@ This project is a **Sales Dashboard** built using **Power BI** to visualize and 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI Desktop** for dashboard creation
 - **Microsoft Excel** for data cleaning and formatting
@@ -36,7 +36,7 @@ This project is a **Sales Dashboard** built using **Power BI** to visualize and 
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ![dashboard_SS](assets/dashboard_screenshot_1.png)
 ![dashboard_SS](assets/dashboard_screenshot_2.png)
