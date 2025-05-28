@@ -41,4 +41,5 @@ This project is a **Sales Dashboard** built using **Power BI** to visualize and 
 ![dashboard_SS](assets/dashboard_screenshot_1.png)
 ![dashboard_SS](assets/dashboard_screenshot_2.png)
 ![dashboard_SS](assets/dashboard_screenshot_3.png)
+![dashboard_SS](assets/dashboard_screenshot_4.png)
 
